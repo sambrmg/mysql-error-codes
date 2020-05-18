@@ -1,4 +1,4 @@
-export declare enum MysqlErrorCodes {
+export const enum MysqlErrorCodes {
     EE_CANTCREATEFILE                                                                = 1,
     EE_READ                                                                          = 2,
     EE_WRITE                                                                         = 3,
